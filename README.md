@@ -82,7 +82,7 @@ To train ml pipeline/model : /pipeline.py
 `python pipeline.py`
 
  
-### **
+**
 
 > Configuration
 
@@ -95,7 +95,7 @@ model.yaml : It contains all model training related details. Change parameters i
 schema.yaml : It contains schema of the dataset for validation purpose.
 
 > 
-###**Project Structure**
+**Project Structure**
 
 `Backorder-Prediction/
 │
