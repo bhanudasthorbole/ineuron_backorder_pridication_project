@@ -25,6 +25,11 @@ AWS Elastic Beanstalk link : [[http://backorderpredictionmodel1-env.eba-q9jftgg2
 ![screenshot 1](https://github.com/bhanudasthorbole/ineuron_backorder_pridication_project/assets/142081564/1dfb1a9b-2212-448d-98b9-eef3558fae97)
 
 
+https://github.com/bhanudasthorbole/ineuron_backorder_pridication_project/assets/142081564/d61eb599-1ea2-4efa-afae-dfe8ccbf9432
+
+
+
+
 > 
 
 
